@@ -1,10 +1,20 @@
-<h1 align="center">Hi 👋, I'm Luiz Zacarkim</h1>
-- 🌱 I’m currently learning **Technologist in systems analysis and development**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zacarkim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zacarkim/" height="30" width="40" /></a>
+<p align="left"> 
+Me chamo Luiz Zacarkim, sou eletricista na CPFL Paulista e estou estudando Análise e Desenvolvimento de Sistemas na PUC Minas. Estou em transição de carreira, buscando novas oportunidades na área de tecnologia para expandir meus conhecimentos e crescer profissionalmente.
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfzacarkims&show_icons=true&locale=en" alt="lfzacarkims" /></p>
+<p align="left">
+  💌 Conecte-se comigo: ⤵️
+</p>
 
+<p align="left">
+  <a href="lfzacarkim@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/zacarkim/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5511999714418" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/lfzacarkim/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
