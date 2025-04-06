@@ -1,14 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-<h1 align="center">Olá, eu sou o Luiz Zacarkim!</h1>
-
-<p align="center">
-  Eletricista em transição para o mundo da tecnologia.<br>
-  Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.<br>
-  Apaixonado por desenvolvimento web e soluções práticas com código.
-</p>
-
+Olá, me chamo Luiz!<br>
+Eletricista em transição para o mundo da tecnologia.<br>
+Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.<br>
+Apaixonado por desenvolvimento web e soluções práticas com código.
 ---
 
 ### Sobre mim
