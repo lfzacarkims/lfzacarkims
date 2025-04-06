@@ -1,7 +1,71 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Me chamo Luiz Zacarkim, sou eletricista na CPFL Paulista e estou estudando Análise e Desenvolvimento de Sistemas na PUC Minas. Estou em transição de carreira, buscando novas oportunidades na área de tecnologia para expandir meus conhecimentos e crescer profissionalmente.
+<h1 align="center">Olá, eu sou o Luiz Zacarkim!</h1>
+
+<p align="center">
+  Eletricista em transição para o mundo da tecnologia.<br>
+  Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.<br>
+  Apaixonado por desenvolvimento web e soluções práticas com código.
+</p>
+
+---
+
+### Sobre mim
+
+- Desenvolvedor iniciante com background técnico na área elétrica  
+- Foco atual: **HTML, CSS e JavaScript puro**
+- Buscando aplicar a lógica de programação em projetos reais e funcionais
+- Criando meu primeiro sistema completo na faculdade: um **CRM imobiliário**
+
+---
+
+### Aprendizados recentes
+
+- Manipulação do DOM com JavaScript
+- Criação de interfaces responsivas com HTML e CSS
+- Organização e estrutura de projetos web
+- Lógica de programação aplicada a casos reais
+
+---
+
+### Projetos em destaque
+
+- Estou trabalhando em um CRM Imobiliário na faculdade. Trata-se de uma aplicação web em HTML, css e javascript puro. O sistema permite o gerenciamento de leads e imóveis de forma organizada e intuitiva. Meu grupo está aplicando mitologias ágeis para melhor organização e entrega do projeto.
+---
+
+### Próximos passos
+
+- Aprender consumo de APIs
+- Versionar mais projetos no GitHub
+- Melhorar práticas de acessibilidade e performance
+- Criar meu portfólio pessoal em breve
+
+---
+
+### Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- Email: seuemail@gmail.com
+
+---
+
+<sub>“Persistência constrói pontes entre o que você é e o que deseja se tornar.”</sub>
+
+
+---
+
+### Próximos passos
+
+- Aprender a integrar o front-end com o back-end
+- Versionar mais projetos no GitHub
+- Melhorar práticas de acessibilidade e performance
+- Criar meu portfólio pessoal em breve
+
+---
+
+<sub>“Persistência constrói pontes entre o que você é e o que deseja se tornar.”</sub>
+
 </p>
 
 <p align="left">
