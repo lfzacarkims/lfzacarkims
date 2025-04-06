@@ -5,7 +5,6 @@ Olá, me chamo Luiz!<br>
 Eletricista em transição para o mundo da tecnologia.<br>
 Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.<br>
 Apaixonado por desenvolvimento web e soluções práticas com código.
----
 
 ### Sobre mim
 
