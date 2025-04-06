@@ -31,27 +31,7 @@
 
 ### Projetos em destaque
 
-- Estou trabalhando em um CRM Imobiliário na faculdade. Trata-se de uma aplicação web em HTML, css e javascript puro. O sistema permite o gerenciamento de leads e imóveis de forma organizada e intuitiva. Meu grupo está aplicando mitologias ágeis para melhor organização e entrega do projeto.
----
-
-### Próximos passos
-
-- Aprender consumo de APIs
-- Versionar mais projetos no GitHub
-- Melhorar práticas de acessibilidade e performance
-- Criar meu portfólio pessoal em breve
-
----
-
-### Contato
-
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- Email: seuemail@gmail.com
-
----
-
-<sub>“Persistência constrói pontes entre o que você é e o que deseja se tornar.”</sub>
-
+- Estou trabalhando em um CRM Imobiliário na faculdade. Trata-se de uma aplicação web em HTML, css e javascript puro. O sistema permite o gerenciamento de leads e imóveis de forma organizada e intuitiva. Meu grupo está aplicando metodologias  ágeis para melhor organização e entrega do projeto.
 
 ---
 
