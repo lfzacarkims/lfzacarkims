@@ -1,59 +1,56 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+## Olá, meu nome é {Luiz Zacarkim}!
 
-<p align="left"> 
-Olá, me chamo Luiz!<br>
-Eletricista em transição para o mundo da tecnologia.<br>
-Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.<br>
-Apaixonado por desenvolvimento web e soluções práticas com código.
+### ⚙️ GitHub Analytics
 
-### Sobre mim
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=lfzacarkims&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfzacarkims&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=lfzacarkims&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-- Desenvolvedor iniciante com background técnico na área elétrica  
-- Foco atual: **HTML, CSS e JavaScript puro**
-- Buscando aplicar a lógica de programação em projetos reais e funcionais
-- Criando meu primeiro sistema completo na faculdade: um **CRM imobiliário**
+--- 
 
----
+### 🏆 GitHub Profile Trophy
 
-### Aprendizados recentes
-
-- Manipulação do DOM com JavaScript
-- Criação de interfaces responsivas com HTML e CSS
-- Organização e estrutura de projetos web
-- Lógica de programação aplicada a casos reais
-
----
-
-### Projetos em destaque
-
-- Estou trabalhando em um CRM Imobiliário na faculdade. Trata-se de uma aplicação web em HTML, css e javascript puro. O sistema permite o gerenciamento de leads e imóveis de forma organizada e intuitiva. Meu grupo está aplicando metodologias  ágeis para melhor organização e entrega do projeto.
-
----
-
-### Próximos passos
-
-- Aprender a integrar o front-end com o back-end
-- Versionar mais projetos no GitHub
-- Melhorar práticas de acessibilidade e performance
-- Criar meu portfólio pessoal em breve
-
----
-
-<sub>“Persistência constrói pontes entre o que você é e o que deseja se tornar.”</sub>
-
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=lfzacarkims&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
 </p>
 
-<p align="left">
-  💌 Conecte-se comigo: ⤵️
-</p>
+---
 
-<p align="left">
-  <a href="mailto:lfzacarkim@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/zacarkim/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5511999714418" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/lfzacarkim/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <a href="https://hits.sh/github.com/lfzacarkims/"><img alt="Hits" src="https://hits.sh/github.com/lfzacarkims.svg?style=for-the-badge&label=Total%20Visitas&color=7a15d6&labelColor=431566"/></a>
 </p>
