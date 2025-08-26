@@ -18,32 +18,15 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=lfzacarkims&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
 
 --- 
 
-### 🏆 GitHub Profile Trophy
+### 📂 Projects
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=lfzacarkims&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+<a href="https://github.com/lfzacarkims/imobiflow-gestao-leads-imoveis">Imobiflow - Gestão de Leads e Imóveis</a><br>
+<a href="https://github.com/lfzacarkims/alura-front-end-portfolio">Alura: Front-end - Portfólio</a>
 
 ---
 
