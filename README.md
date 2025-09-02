@@ -1,11 +1,11 @@
 ![A imagem mostra um fundo escuro com padrões de circuito eletrônico e formas geométricas em tons de azul e verde. O texto principal, "Hey! I'm Luiz Zacarkim", está centralizado em uma fonte sans-serif, com a legenda "Fullstack Developer in training" logo abaixo. No canto inferior direito, há um pequeno ícone do GitHub em branco.](img/logo-readme-github.png)
 
 ## <center>Let's connect and chat! 💬 </center>
-<center>
+<div align="center">
 <a href="mailto:lfzacarkim@gmail.com"><img src="img/gmail-svgrepo-com (1).svg" alt="Ícone do Gmail" width="6%" height="6%"></a>
 <a href="https://linkedin.com/in/zacarkim"><img src="img/linkedin-svgrepo-com (1).svg" alt="Ícone do LinkedIn" width="6%" height="6%"></a>
 <a href="https://instagram.com/lfzacarkim"><img src="img/instagram-1-svgrepo-com (1).svg" alt="Ícone do Instagram" width="6%" height="6%"></a>
-</center>
+</div>
 
 ## ✨ About me
 Hey there! 👋 I'm Luiz Zacarkim, a dedicated student of Systems Analysis and Development at [PUC Minas](https://www.pucminas.br/). I'm passionate about technology and actively pursuing a career as a Full-Stack Developer.
@@ -59,33 +59,33 @@ To continuously improve my programming logic and problem-solving skills, I activ
 
 *Period: October 2023 - April 2025 (Completed)*
 
-## <center>Tools</center>
-<center>
+## <center>🔧 Tools</center>
+<div align="center">
 <img src="img/vs-code-svgrepo-com.svg" alt="Ícone do VS Code" width="6%" height="6%">
 <img src="img/visual-studio-svgrepo-com.svg" alt="Ícone do Visual Studio" width="6%" height="6%">
 <img src="img/git-svgrepo-com.svg" alt="Ícone do Git" width="6%" height="6%">
 <img src="img/figma-svgrepo-com.svg" alt="Ícone do Figma" width="6%" height="6%">
-</center>
+</div>
 
-## <center>Languages</center>
-<center>
+## <center>💻 Languages</center>
+<div align="center">
 <img src="img/c-sharp-svgrepo-com.svg" alt="Ícone de C#" width="6%" height="6%">
 <img src="img/js-official-svgrepo-com.svg" alt="Ícone de JavaScript" width="6%" height="6%">
 <img src="img/html-5-svgrepo-com.svg" alt="Ícone de HTML" width="6%" height="6%">
 <img src="img/css-3-svgrepo-com.svg" alt="Ícone de CSS" width="6%" height="6%">
-</center>
+</div>
 
-## <center>Frameworks</center>
-<center>
+## <center>🗃 Frameworks</center>
+<div align="center">
 <img src="img/dot_net_plain_wordmark_logo_icon_146545 (1).svg" alt="Ícone de .NET" width="6%" height="6%">
 <img src="img/bootstrap-svgrepo-com.svg" alt="Ícone do Bootstrap" width="6%" height="6%">
-</center>
+</div>
 
-## <center>Libraries and Databases</center>
-<center>
+## <center>📚 Libraries and Databases</center>
+<div align="center">
 <img src="img/sql-svgrepo-com.svg" alt="Ícone de SQL" width="6%" height="6%">
 <img src="img/mysql-logo-svgrepo-com.svg" alt="Ícone do MySQL" width="6%" height="6%">
-</center>
+</div>
 
 ## 🌟 Additional Highlights
 
