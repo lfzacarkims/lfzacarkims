@@ -1,10 +1,10 @@
 ![A imagem mostra um fundo escuro com padrões de circuito eletrônico e formas geométricas em tons de azul e verde. O texto principal, "Hey! I'm Luiz Zacarkim", está centralizado em uma fonte sans-serif, com a legenda "Fullstack Developer in training" logo abaixo. No canto inferior direito, há um pequeno ícone do GitHub em branco.](img/logo-readme-github.png)
 
-## <center>Let's connect and chat! 💬 </center>
+## <div align="center">Let's connect and chat! 💬 </div>
 <div align="center">
-<a href="mailto:lfzacarkim@gmail.com"><img src="img/gmail-svgrepo-com (1).svg" alt="Ícone do Gmail" width="6%" height="6%"></a>
-<a href="https://linkedin.com/in/zacarkim"><img src="img/linkedin-svgrepo-com (1).svg" alt="Ícone do LinkedIn" width="6%" height="6%"></a>
-<a href="https://instagram.com/lfzacarkim"><img src="img/instagram-1-svgrepo-com (1).svg" alt="Ícone do Instagram" width="6%" height="6%"></a>
+<a href="mailto:lfzacarkim@gmail.com" target="_blank"><img src="img/gmail-svgrepo-com (1).svg" alt="Ícone do Gmail" width="6%" height="6%"></a>
+<a href="https://linkedin.com/in/zacarkim" target="_blank"><img src="img/linkedin-svgrepo-com (1).svg" alt="Ícone do LinkedIn" width="6%" height="6%"></a>
+<a href="https://instagram.com/lfzacarkim" target="_blank"><img src="img/instagram-1-svgrepo-com (1).svg" alt="Ícone do Instagram" width="6%" height="6%"></a>
 </div>
 
 ## ✨ About me
@@ -15,14 +15,13 @@ My journey is rooted in a solid foundation of programming logic and software dev
 Beyond my technical skills, my previous professional experience has equipped me with strong abilities in problem-solving, process management, and adherence to complex procedures. I am eager to apply these skills to contribute to the full software development lifecycle.
 
 ## 👨‍💻 Competitive Programming
-To continuously improve my programming logic and problem-solving skills, I actively practice on platforms such as **Beecrowd, Codewars, HackerRank, and LeetCode**.
+To continuously improve my programming logic and problem-solving skills, I actively practice on platforms such as **Codewars, HackerRank, and LeetCode**.
 
 ### 🏆 My coding profiles
 
-<!-- <a href="https://judge.beecrowd.com/pt/profile/1118438">![beecrowd]()</a>
-<a href="https://www.codewars.com/users/lfzacarkims">![code wars]()</a>
-<a href="https://www.hackerrank.com/profile/lfzacarkim">![hacker hank]()</a>
-<a href="https://leetcode.com/u/lfzacarkims/">![leetcode]()</a> -->
+<a href="https://www.codewars.com/users/lfzacarkims" target="_blank"><img src="img/icons8-codewars-96.png" width="6%" height="6%"></a>
+<a href="https://www.hackerrank.com/profile/lfzacarkim" target="_blank"><img src="img/icons8-hackerrank-96.png" width="6%" height="6%"></a>
+<a href="https://leetcode.com/u/lfzacarkims/" target="_blank"><img src="img/icons8-leetcode-96.png" width="6%" height="6%"></a>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lfzacarkims?theme=dark&font=Abel&ext=heatmap)
 
@@ -59,15 +58,15 @@ To continuously improve my programming logic and problem-solving skills, I activ
 
 *Period: October 2023 - April 2025 (Completed)*
 
-## <center>🔧 Tools</center>
+## <div align="center">🔧 Tools</div>
 <div align="center">
 <img src="img/vs-code-svgrepo-com.svg" alt="Ícone do VS Code" width="6%" height="6%">
-<img src="img/visual-studio-svgrepo-com.svg" alt="Ícone do Visual Studio" width="6%" height="6%">
+<img src="img/visual-studio-svgrepo-com.svg" alt="Ícone do Visual Studio" width="5%" height="5%">
 <img src="img/git-svgrepo-com.svg" alt="Ícone do Git" width="6%" height="6%">
 <img src="img/figma-svgrepo-com.svg" alt="Ícone do Figma" width="6%" height="6%">
 </div>
 
-## <center>💻 Languages</center>
+## <div align="center">💻 Languages</div>
 <div align="center">
 <img src="img/c-sharp-svgrepo-com.svg" alt="Ícone de C#" width="6%" height="6%">
 <img src="img/js-official-svgrepo-com.svg" alt="Ícone de JavaScript" width="6%" height="6%">
@@ -75,13 +74,13 @@ To continuously improve my programming logic and problem-solving skills, I activ
 <img src="img/css-3-svgrepo-com.svg" alt="Ícone de CSS" width="6%" height="6%">
 </div>
 
-## <center>🗃 Frameworks</center>
+## <div align="center">🗃 Frameworks</div>
 <div align="center">
 <img src="img/dot_net_plain_wordmark_logo_icon_146545 (1).svg" alt="Ícone de .NET" width="6%" height="6%">
 <img src="img/bootstrap-svgrepo-com.svg" alt="Ícone do Bootstrap" width="6%" height="6%">
 </div>
 
-## <center>📚 Libraries and Databases</center>
+## <div align="center">📚 Libraries and Databases</div>
 <div align="center">
 <img src="img/sql-svgrepo-com.svg" alt="Ícone de SQL" width="6%" height="6%">
 <img src="img/mysql-logo-svgrepo-com.svg" alt="Ícone do MySQL" width="6%" height="6%">
