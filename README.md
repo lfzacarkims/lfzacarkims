@@ -55,25 +55,33 @@ To sharpen my logic and problem-solving, I practice on:
 **Electrotechnical Technician**  
 📍 FASPEC | *Oct 2023 – Apr 2025 (Completed)*  
 
-## 🔧 Tools  
-<img src="img/vs-code-svgrepo-com.svg" alt="VS Code" width="40">
-<img src="img/visual-studio-svgrepo-com.svg" alt="Visual Studio" width="40">
-<img src="img/git-svgrepo-com.svg" alt="Git" width="40">
-<img src="img/figma-svgrepo-com.svg" alt="Figma" width="40">
+## 🔧 Tools
+<div>  
+    <img src="img/vs-code-svgrepo-com.svg" alt="VS Code" width="40">
+    <img src="img/visual-studio-svgrepo-com.svg" alt="Visual Studio" width="40">
+    <img src="img/git-svgrepo-com.svg" alt="Git" width="40">
+    <img src="img/figma-svgrepo-com.svg" alt="Figma" width="40">
+</div>
 
-## 💻 Languages  
-<img src="img/c-sharp-svgrepo-com.svg" alt="C#" width="40">
-<img src="img/js-official-svgrepo-com.svg" alt="JavaScript" width="40">
-<img src="img/html-5-svgrepo-com.svg" alt="HTML" width="40">
-<img src="img/css-3-svgrepo-com.svg" alt="CSS" width="40">
+## 💻 Languages 
+<div> 
+    <img src="img/c-sharp-svgrepo-com.svg" alt="C#" width="40">
+    <img src="img/js-official-svgrepo-com.svg" alt="JavaScript" width="40">
+    <img src="img/html-5-svgrepo-com.svg" alt="HTML" width="40">
+    <img src="img/css-3-svgrepo-com.svg" alt="CSS" width="40">
+</div>
 
 ## 🗃 Frameworks  
-<img src="img/dot_net_plain_wordmark_logo_icon_146545 (1).svg" alt=".NET" width="40">
-<img src="img/bootstrap-svgrepo-com.svg" alt="Bootstrap" width="40">
+<div>
+    <img src="img/dot_net_plain_wordmark_logo_icon_146545 (1).svg" alt=".NET" width="40">
+    <img src="img/bootstrap-svgrepo-com.svg" alt="Bootstrap" width="40">
+</div>
 
 ## 📚 Libraries & Databases  
-<img src="img/sql-svgrepo-com.svg" alt="SQL" width="40">
-<img src="img/mysql-logo-svgrepo-com.svg" alt="MySQL" width="40">
+<div>
+    <img src="img/sql-svgrepo-com.svg" alt="SQL" width="40">
+    <img src="img/mysql-logo-svgrepo-com.svg" alt="MySQL" width="40">
+</div>
 
 ## 🌟 Additional Highlights  
 
