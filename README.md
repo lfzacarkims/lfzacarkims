@@ -1,19 +1,17 @@
-# 👋 Olá, eu sou o Luiz Zacarkim  
+# 👋 Olá, eu sou o Luiz
 
-Sou **eletricista de distribuição na CPFL Paulista** e estou estudando **ADS na PUC Minas**.  
+Sou eletricista de distribuição na CPFL Paulista e estou estudando ADS na PUC Minas.  
 Tenho grande interesse por tecnologia, automação e desenvolvimento web, buscando unir prática e aprendizado contínuo.  
 
 ---
 
-## 🚀 Projetos Acadêmicos
+## 📈 Minhas Estatísticas
 
-### 🏠 ImobiFlow  
-Sistema web para **gestão de leads e imóveis**, desenvolvido no primeiro semestre do curso.  
-Focado em organização, cadastro de imóveis e gestão de leads.
-
-### 🌳 SIGPODA  
-Sistema para **gestão de podas de árvores em redes elétricas**, projeto atual em desenvolvimento.  
-Tem como objetivo otimizar o controle de solicitações e equipes envolvidas nas podas.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lfzacarkims&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lfzacarkims&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfzacarkims&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150"/>
+</div>
 
 ---
 
